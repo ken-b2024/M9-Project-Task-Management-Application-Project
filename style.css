@@ -1,0 +1,7 @@
+body {
+    background: radial-gradient(lightgray, rgb(0, 225, 255))
+}
+
+.nav-text {
+    font-size: larger;
+}
