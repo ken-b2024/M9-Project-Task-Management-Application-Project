@@ -15,6 +15,11 @@ body {
     width: 85rem;
 }
 
+.img3 {
+    height: 45rem;
+    width: 85rem;
+}
+
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
   width: 3vw;
