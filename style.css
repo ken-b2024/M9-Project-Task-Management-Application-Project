@@ -1,17 +1,20 @@
 header h1 {
-    font-size: 38pt;
+    font-size: 40pt;
+    padding: 2%;
 }
 
 body {
-    background: radial-gradient(rgb(0, 225, 255), lightgray)
+    background: radial-gradient(rgb(0, 225, 255), lightgray);
+    background-position: center;
 }
 
 .nav-text {
-    font-size: x-large;
+    font-size: xx-large;
 }
 
 .img {
     height: 45rem;
+    width: 100%;
 }
 
 .img2 {
@@ -26,8 +29,8 @@ body {
 
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
-  width: 3vw;
-  height: 4vw;
+  width: 2vw;
+  height: 3vw;
 }
 
 .card-bg {
