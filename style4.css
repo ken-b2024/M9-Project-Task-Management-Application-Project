@@ -13,11 +13,17 @@ body {
 }
 
 form div{
-    margin-left: 75rem;
+    margin-top: 25rem;
+    margin-left: 25rem;
+}
+
+text-box {
+    height: 5rem;
 }
 
 div button {
-    margin-left: 9.3rem;
+    margin-top: -47rem;
+    margin-left: 7rem;
 }
 
 .valid-feedback {
@@ -25,5 +31,6 @@ div button {
 }
 
 .invalid-feedback {
-    margin-left: 15rem;
+    margin-left: 10rem;
+    margin-right: -25rem; 
 }
