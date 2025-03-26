@@ -12,12 +12,18 @@ body {
     font-size: xx-large;
 }
 
-.button-1 {
-    width: 150px;
-    margin-left: 44%;
-    margin-top: 25px;
+form div{
+    margin-left: 75rem;
 }
 
-form {
-    margin-top: 35%;
+div button {
+    margin-left: 9.3rem;
+}
+
+.valid-feedback {
+    margin-left: 15rem;
+}
+
+.invalid-feedback {
+    margin-left: 15rem;
 }
