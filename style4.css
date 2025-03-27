@@ -5,25 +5,15 @@ header h1 {
 
 body {
     background: radial-gradient(rgb(0, 225, 255), lightgray);
-    background-position: center;
 }
 
 .nav-text {
     font-size: xx-large;
 }
 
-form div{
-    margin-top: 25rem;
-    margin-left: 25rem;
-}
+form {
 
-text-box {
-    height: 5rem;
-}
-
-div button {
-    margin-top: -47rem;
-    margin-left: 7rem;
+    margin-top: 10rem;
 }
 
 .valid-feedback {
@@ -34,3 +24,27 @@ div button {
     margin-left: 10rem;
     margin-right: -25rem; 
 }
+
+/* @media screen and (max-width: 990px) {
+    div button {
+        margin-top: -45rem;
+        margin-left: -5rem;
+    }
+    .valid-feedback {
+        margin-left: 15rem;
+    }
+    .invalid-feedback {
+        margin-right: -5rem; 
+    }
+}
+
+@media screen and (max-width: 767px) {
+    div button {
+        margin-top: -45rem;
+        margin-left: 1rem;
+    }
+    form div{
+        margin-top: 25rem;
+        margin-left: 5rem;
+    }
+} */
