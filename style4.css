@@ -24,27 +24,3 @@ form {
     margin-left: 10rem;
     margin-right: -25rem; 
 }
-
-/* @media screen and (max-width: 990px) {
-    div button {
-        margin-top: -45rem;
-        margin-left: -5rem;
-    }
-    .valid-feedback {
-        margin-left: 15rem;
-    }
-    .invalid-feedback {
-        margin-right: -5rem; 
-    }
-}
-
-@media screen and (max-width: 767px) {
-    div button {
-        margin-top: -45rem;
-        margin-left: 1rem;
-    }
-    form div{
-        margin-top: 25rem;
-        margin-left: 5rem;
-    }
-} */
